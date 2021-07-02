@@ -125,10 +125,9 @@ An inbound rule allows instances to receive traffic from IPv4 or IPv6 CIDR addre
 
  This keypair is going to use for executing out lamp server
  
-# Creating Lamp Stack instance
- # Creating a Lamp stack
+# Creating a Lamp stack
 
-LAMP stands for
+### LAMP stands for
 - Linux 
 - Apache  
 - MySQL  
