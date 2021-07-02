@@ -1,3 +1,4 @@
+
 # How to create Lamp ec2 instance 
 Before doing all of the work in aws-CLI, First we need to configure the AWS-CLI from command prompt we need to give access to our account with using "access key id" and "secret access key"
 For configure the aws cli account we need to execute 
@@ -15,6 +16,13 @@ Default region name [us-east-1]: region
 Default output format [JSON]: 
 
 in command prompt and after executing this we can give the access key id, secret access key, format of file, region these credentials we need to put in that after configuration our command prompt is ready to run another commands of aws cli.
+# Diagram
+
+![Diagram]()
+
+
+
+
 
 # Create a Vpc 
 
