@@ -17,7 +17,7 @@ Default output format [JSON]:
 
 in command prompt and after executing this we can give the access key id, secret access key, format of file, region these credentials we need to put in that after configuration our command prompt is ready to run another commands of aws cli.
 # Diagram
-![Diagram](https://github.com/sayanVampire60231023/Lamp-Server-/blob/master/Screenshot%20(284).png
+![Diagram](https://github.com/sayanVampire60231023/Lamp-Server-/blob/master/Screenshot%20(284).png)
 # Create a Vpc 
 
 Amazon VPC allows us to create a virtual network in the AWS cloud without the need for VPNs, hardware, or physical data centers. We have the ability to design our own network space and regulate how your network and Amazon EC2 resources within network are exposed to the Internet. For creating vpc 
