@@ -1,8 +1,11 @@
 #!/bin/bash
+echo " if apt-get is not work the use yum instead of apt-get  in this script\n"
+echo "httpd equivalent to apache2\n"
 echo -e "\n\nUpdating Apt Packages and upgrading latest patches\n"
-sudo apt-get update -y && sudo apt-get upgrade -y
+sudo apt-get update -y && sudo apt-get upgrade -y   
 
 echo -e "\n\nInstalling Apache2 Web server\n"
+echo " another way is :- yum install httpd -y \n"
 sudo apt-get install apache2 apache2-doc apache2-mpm-prefork apache2-utils libexpat1 ssl-cert -y
 
 echo -e "\n\nInstalling PHP & Requirements\n"
